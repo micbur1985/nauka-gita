@@ -2,3 +2,4 @@ To jest mój pierwszy plik w Gicie
 A to jest druga linijka tekstu.
 To jest linijka dodana przez przeglądarkę (GitHub).
 AAA
+dsfdsfsdfdsfs
